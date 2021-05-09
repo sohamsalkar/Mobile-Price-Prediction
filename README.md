@@ -25,7 +25,7 @@ As a final analysis, it was obviously noticed that some algorithms worked better
 
 ## Instructions
 to run the front end project, in terminal simply run <br>
-`python MobilePricePrediction.py`
+`python MobilePricePredictor.py`
 
 ## Screenshots
 Same price predicted by all the three algorithms.
